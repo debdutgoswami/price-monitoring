@@ -1,0 +1,5 @@
+**/logs
+logs
+
+# ignoring __pycache__ folder from commit
+__pycache__
