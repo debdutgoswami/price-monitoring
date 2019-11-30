@@ -15,4 +15,4 @@ if n == 1:
 elif n == 2:
     while(True):
         Flipkart().findPrice(url,new_price)
-        time.sleep(600)
+        #time.sleep(600)
